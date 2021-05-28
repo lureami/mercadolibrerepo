@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title> Inicio </title>
+</head>
+<body>
+   
+<header>
+<img src="/images/logo-mercado-liebre.svg">
+<nav> lugar para poner la barra de busquedad </nav>
+<div> compra en cuotas y sin tarjeta de credito  </div>
+<ul type="disc">
+    
+        <li><a href="https://www.ofertas.com"> Ofertas</a>
+         </li>
+         <li>
+         <a href= "https://www.tiendasoficiales.com">Tiendas oficiales</a>
+         </li>
+         <li>
+           <a href="https://www.vender.com.ar">Vender</a>
+         </li>
+         <li>
+            <a href="https://www.ayuda.com.ar">Ayuda</a>
+          </li>
+          <li>
+            <a href="https://www.creatucuenta.com.ar">Creá tu cuenta</a>
+          </li>
+          <li>
+            <a href="https://www.ingresa.com.ar">Ingresá</a>
+          </li>
+          <li>
+            <a href="https://www.miscompras.com.ar">Mis compras</a>
+          </li>
+          <li>Seccion: Basado en tu ultima visita</li>
+          <img src="/images/img-cafetera-moulinex.jpg">
+            <div>$6770</div>  
+            <div>40% OFF</div>
+             <div>Cafetera Moulinex</div> 
+             <img src="/images/img-macbook-pro-2019.jpg">
+             <div>$230.000</div>  
+             <div>20% OFF</div>
+              <div>MacBook Pro2019 </div> 
+              <img src="/images/img-samsung-galaxy-s10.jpg">
+              <div>$70.500</div>  
+              <div>10% OFF</div>
+               <div>Samsung Galaxy S10 </div> 
+               <img src="/images/img-tv-samsung-smart.jpg">
+              <div>$23.200</div>  
+              <div>5% OFF</div>
+               <div>SmarthTv Samsung 43" </div> 
+             <li>Seccion de Ofertas</li>
+             <img src="/images/img-cafetera-moulinex.jpg">
+             <div>$6770</div>  
+             <div>40% OFF</div>
+              <div>Cafetera Moulinex</div> 
+              <img src="/images/img-macbook-pro-2019.jpg">
+              <div>$230.000</div>  
+              <div>20% OFF</div>
+               <div>MacBook Pro2019 </div> 
+               <img src="/images/img-samsung-galaxy-s10.jpg">
+               <div>$70.500</div>  
+               <div>10% OFF</div>
+                <div>Samsung Galaxy S10 </div> 
+                <img src="/images/img-tv-samsung-smart.jpg">
+               <div>$23.200</div>  
+               <div>5% OFF</div>
+                <div>SmarthTv Samsung 43" </div> 
+         </ul>
+
+
+</header>
+
+<main>
+
+</main>
+<footer>
+    <li>Paga con tarjeta o efectivo</li>
+    <p><strong>Con mercado Libre Cash, tenes duotas sin interes con tarjeta o efectivo en puntos de pago¡Y siempre es seguro!</strong></p>
+    <li>Envio gratis desde $2.500</li>
+    <p><strong>Solo por estar registrad@ en Mercado Libre tenes envio gratis en miles de productos. Es un beneficio en Mercado Puntos.</strong></p>
+    <li>Seguridad, de principio a fin</li>
+    <p><strong>¿No te gusta? ¡Devolvelo! En Mercado Liebre, no hay nada que no puedas hacer, porque estas seimpre protegid@</strong></p>
+    <li>Copyright © 1999-2020 MercadoLiebre S.R.L </li>
+</footer>
+
+</body>
+
+</html>
